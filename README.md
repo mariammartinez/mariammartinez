@@ -22,10 +22,11 @@ Je suis Marian, Développeuse fullstack, 😋
 ## 👾 Je code avec...
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/Vuejs-informational?style=flat&logo=Vue&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Vuejs-informational?style=flat&logo=VueJs&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Php-informational?style=flat&logo=Php&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Symfony-informational?style=flat&logo=Symfony&logoColor=ColorName&color=black)
 <br/>
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=ColorName&color=black)
 <br/>
