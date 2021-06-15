@@ -1,7 +1,7 @@
 
 # Hola 👋
 
-Je suis Marian, Développeuse web fullstack, 😋
+Je suis Marian, Développeuse web fullstack 😋
 
 ## 👾 Je code avec...
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
