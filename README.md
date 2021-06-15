@@ -23,16 +23,18 @@ Je suis Marian, Développeuse fullstack, 😋
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Php-informational?style=flat&logo=Php&logoColor=ColorName&color=black)
-
 <br/>
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Jasmine-informational?style=flat&logo=Jasmine&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/figma-informational?style=flat&logo=figma&logoColor=ColorName&color=black)
 <br/>
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 ## 🌱 I'm currently learning...
 ![](https://img.shields.io/badge/figma-informational?style=flat&logo=figma&logoColor=ColorName&color=black)
 
