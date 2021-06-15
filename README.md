@@ -5,7 +5,6 @@ Je suis Marian, Développeuse web fullstack 😋
 
 ## 👾 Je code avec...
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=Vue.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Php-informational?style=flat&logo=Php&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Symfony-informational?style=flat&logo=Symfony&logoColor=ColorName&color=black)
@@ -22,7 +21,7 @@ Je suis Marian, Développeuse web fullstack 😋
 
 ## 🌱 J'apprends actuellement...
 ![](https://img.shields.io/badge/figma-informational?style=flat&logo=figma&logoColor=ColorName&color=black)
-
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 
 ## 🌎 Connectons-nous! 
 N'hésite pas à m'envoyer un message 💬 
